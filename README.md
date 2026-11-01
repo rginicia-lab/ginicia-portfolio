@@ -25,7 +25,6 @@ You can also deploy the folder using Netlify or Vercel as a static site.
 
 ## IMPORTANT: Personalize before submission
 The portfolio is a polished starter version. Replace or verify these details so the submitted work is accurate:
-- Add your internship dates and update the internship description to match your actual work.
 - Add a resume PDF if you want a resume download link.
 - Verify that each project description reflects what you personally built. MedBridge AI and LocalScan are currently labelled as a hackathon concept and academic proposal.
 - Add links to live project demos where available.
