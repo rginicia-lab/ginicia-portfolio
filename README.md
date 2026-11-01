@@ -15,13 +15,11 @@ A responsive, single-page developer portfolio built with **HTML, CSS, and vanill
 2. Open `index.html` in a browser.
 3. For a local development server, use VS Code Live Server or run `python -m http.server 8000` in this folder and visit `http://localhost:8000`.
 
-## Deploy free with GitHub Pages
-1. Create a new public GitHub repository, for example `ginicia-portfolio`.
-2. Upload `index.html`, `style.css`, `script.js`, and this README to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`, then save.
-6. Wait for GitHub Pages to publish the site.
+## Live site
+
+The portfolio is published with GitHub Pages: https://rginicia-lab.github.io/ginicia-portfolio/
+
+GitHub Pages deploys the repository root from the `main` branch. Push changes to `main` to publish an update.
 
 You can also deploy the folder using Netlify or Vercel as a static site.
 
