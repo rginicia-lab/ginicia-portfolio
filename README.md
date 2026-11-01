@@ -25,7 +25,6 @@ You can also deploy the folder using Netlify or Vercel as a static site.
 
 ## IMPORTANT: Personalize before submission
 The portfolio is a polished starter version. Replace or verify these details so the submitted work is accurate:
-- Add your college name, degree year, and expected graduation year in the Education section.
 - Add your internship dates and update the internship description to match your actual work.
 - Add your professional email and LinkedIn URL in the Contact section.
 - Add a resume PDF if you want a resume download link.
